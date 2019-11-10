@@ -16,7 +16,7 @@ Steps:
 
 Here is a javascript function:
              |-----The array containing the sequence
-function re (x) {
+function re(x) {
  var constant = x[x.length-1] + x[0];\
  for (var i=0; i<x.length; i++)  {x[i] = -1*x[i]+constant;} 
 return x;
