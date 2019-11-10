@@ -11,7 +11,7 @@ e.g.:
 Steps: 
 1. sum First and Last number of sequence: A+E
 2. every item in sequence * -1: (A,B,C,D,E) x -1 --> -A,-B,-C,-D,-E
-3. add the number in (1) to every item in sequence: -A+(A+E),-B+(A+E),-C+(A+E),-D+(A+E),-E+(A+E) = E,D,C,B,A (DONE!)
+3. add the number in (1) to every item in sequence: -A+(A+E),-B+(A+E),-C+(A+E),-D+(A+E),-E+(A+E) (DONE!)
 
 
 Here is a javascript function:
